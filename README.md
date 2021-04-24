@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ichan18
+👋 Hi, I’m @ichan18
 
 <!--
 - 👀 I’m interested in ...
